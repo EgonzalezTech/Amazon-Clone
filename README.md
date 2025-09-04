@@ -33,7 +33,7 @@
 1. Clone repo
 
    ```shell
-    $ git clone git@github.com:basir/nextjs-amazona.git
+    $ git clone https://github.com/EgonzalezTech/Amazon-Clone.git
     $ cd nextjs-amazona
    ```
 
